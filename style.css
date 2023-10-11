@@ -1,0 +1,23 @@
+.content > div {
+    padding: 1em;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin : 0 auto;
+}
+.header{
+    background: orangered;
+    height: 10vh;
+}
+.sidebar{
+    background: orange;
+
+}
+.main {
+    background: cornflowerblue;
+}
+.footer{
+    background: mediumseagreen;
+    height: 10vh;
+}
